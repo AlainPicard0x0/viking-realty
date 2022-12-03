@@ -34,3 +34,10 @@
     font-size: 1.2rem;
     text-transform: uppercase;
 }
+
+#main-section {
+    min-height: 40rem;
+    background: url("../images/home02.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
