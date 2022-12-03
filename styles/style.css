@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+#header-section {
+    background-image: linear-gradient(#370000, #ae0003);
+    min-height: 6rem;
+    padding: 25px;
+}
