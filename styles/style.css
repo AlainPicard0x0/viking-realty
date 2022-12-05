@@ -41,3 +41,8 @@
     background-position: center;
     background-size: cover;
 }
+
+#contact-section {
+    min-height: 12rem;
+    border: solid 1px #000;
+}
