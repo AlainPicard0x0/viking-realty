@@ -16,13 +16,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 50px;
+    margin: 10px 50px 0 50px;
 }
 
 #header-section h1 {
-    margin: 35px;
+    margin: 15px;
     color: #fff;
     font-size: 3rem;
+}
+
+#header-section ul {
+    align-self: flex-end;
 }
 
 #header-section li {
