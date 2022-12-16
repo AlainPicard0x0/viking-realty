@@ -63,3 +63,18 @@
     color: #fff;
 }
 
+#contact-us-form {
+    display: flex;
+    padding: 10px;
+    color: #fff;
+}
+
+.form-label-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-us-form input {
+    height: 1.75rem;
+    width: 14rem;
+}
