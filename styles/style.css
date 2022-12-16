@@ -65,8 +65,13 @@
 
 #contact-us-form {
     display: flex;
+    flex-direction: column;
     padding: 10px;
     color: #fff;
+}
+
+.contact-us-row-1 {
+    display: flex;
 }
 
 .form-label-container {
@@ -75,6 +80,11 @@
 }
 
 #contact-us-form input {
-    height: 1.75rem;
+    height: 2rem;
     width: 14rem;
+}
+
+#contact-us-form button {
+    height: 2rem;
+    width: 28.5rem;
 }
