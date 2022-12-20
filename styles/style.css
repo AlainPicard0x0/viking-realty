@@ -85,10 +85,12 @@
 }
 
 #contact-us-form button {
-    height: 2.2rem;
+    height: 2.3rem;
     width: 28.5rem;
-    background-color: rgba(53, 53, 53, 0.9);
-    color: #fff
+    background-color: rgba(0, 0, 0, 1.0);
+    color: #fff;
+    border: none;
+    margin-top: 1px;
 }
 
 #cards-section {
