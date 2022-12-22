@@ -96,3 +96,11 @@
 #cards-section {
     min-height: 20rem;
 }
+
+.footer-container {
+    height: 3rem;
+    background-image: linear-gradient(#370000, #ae0003);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
