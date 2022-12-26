@@ -106,8 +106,18 @@
 
 .card-container {
     border: 1px solid #000;
-    min-height: 20rem;
-    min-width: 22rem;
+    height: 19rem;
+    width: 20rem;
+}
+
+.card-img {
+    width: 20rem;
+    height: 19rem;
+}
+
+.card-img img {
+    width: 20rem;
+    height: 19rem;
 }
 
 .footer-container {
