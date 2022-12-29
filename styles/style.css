@@ -107,6 +107,8 @@
 .card-container {
     height: 19rem;
     width: 20rem;
+    border-radius: 5%;
+    box-shadow: 3px 3px 9px #000;
 }
 
 .card-img {
@@ -117,6 +119,7 @@
 .card-img img {
     width: 20rem;
     height: 19rem;
+    border-radius: 5%;
 }
 
 .footer-container {
