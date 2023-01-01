@@ -107,7 +107,8 @@
 .row-1 {
     min-height: 40rem;
     display: grid;
-    grid-template: repeat(1, 1fr) / repeat(2, 1fr);
+    grid-template: repeat(1, 1fr) / 1fr 2fr;
+    padding: 50px;
 }
 
 .col-1 {
@@ -129,6 +130,22 @@
     justify-content: center;
     align-items: center;
 }
+
+.col-2-text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.col-2-text h2 {
+    font-size: 2.0rem;
+    margin-bottom: 1.5rem;
+}
+
+.col-2-text p {
+    font-size: 1.2rem;
+}
+
 
 .footer-container {
     height: 3rem;
