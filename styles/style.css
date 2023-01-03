@@ -148,6 +148,9 @@
 
 .row-2 {
     min-height: 40rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .row-2-col-1 {
@@ -159,6 +162,8 @@
 
 .row-2-col-1-text {
     grid-area: 1 / 1 / 2 / 2;
+    justify-self: center;
+    align-self: center;
 }
 
 .row-2-col-2 {
