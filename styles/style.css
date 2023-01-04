@@ -100,10 +100,6 @@
     margin-top: 1px;
 }
 
-#cards-section {
-    /* min-height: 30rem; */
-}
-
 .row-1 {
     min-height: 40rem;
     display: grid;
