@@ -114,7 +114,8 @@
     align-items: center;
 }
 
-.col-1 img {
+.col-1 img,
+.row-2-col-2 img {
     width: 40rem;
     height: 30rem;
     border-radius: 5%;
