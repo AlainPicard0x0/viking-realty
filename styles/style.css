@@ -143,10 +143,6 @@
     font-size: 1.2rem;
 }
 
-.row-2-col-1-text p {
-    font-size: 1.2rem;
-}
-
 .row-2 {
     min-height: 40rem;
     display: flex;
@@ -165,6 +161,15 @@
     grid-area: 1 / 1 / 2 / 2;
     justify-self: center;
     align-self: center;
+}
+
+.row-2-col-1-text h2 {
+    font-size: 2.0rem;
+    margin-bottom: 1.5rem;
+}
+
+.row-2-col-1-text p {
+    font-size: 1.2rem;
 }
 
 .row-2-col-2 {
